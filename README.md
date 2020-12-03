@@ -15,5 +15,5 @@ This is a portfolio website with a description about me, my hobbies and skills, 
 ### License
 
 Copyright (c) 2020 Dorothy Muhonja
-[MIT License]
+[MIT License] (LICENSE)
 
