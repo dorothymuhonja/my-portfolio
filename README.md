@@ -13,5 +13,7 @@ This is a portfolio website with a description about me, my hobbies and skills, 
 * css
 ### Link to Website
 ### License
-Copyright (c) 2020 ** Dorothy Muhonja
+
+Copyright (c) 2020 Dorothy Muhonja
+[MIT License]
 
