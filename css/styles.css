@@ -23,6 +23,11 @@ body{
     font-size: larger;
     font-weight: 500;
 }
+.navbar a:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    border-radius: 20px;
+}
 
 .intro{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/background2.jpg") ;
@@ -51,18 +56,32 @@ body{
 
 }
 .projects{
-    border: 3px solid black;
+    border: 3px solid ;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
     padding: 1em;
     padding-bottom: 220px;
-    width: 95%;
+    width: 98%;
     height: 45rem;
-    margin-top: 20px;
-    margin-left: 10px;
-    
+          
 }
-/* .projects h3{
+
+.projects h2{
     text-align: center;
-} */
+}
+.projects p{
+    word-spacing: 5px;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+
+}
+figure{
+    clear: both;
+}
 
 .about{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/background3.jpg") ; 
@@ -78,9 +97,12 @@ body{
 .about h2{
     text-align: center;
 }
+span{
+    font-weight: bold;
+    color: rgba(187, 164, 164, 0.5);
+}
 .first{
     border: 5px solid white;
-    /* margin-right: 60%; */
     float: right;
     width: 600px;
     padding: 20px;
@@ -103,9 +125,12 @@ body{
 ul, ol{
     line-height: 50px;
 }
+.first p{
+    line-height: 30px;
+}
 footer{
     border: 1px solid grey;
-    background-color: rgba(128, 128, 128, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     padding: 15px;
     text-align: center;
     color: white;
