@@ -8,6 +8,11 @@ This is a portfolio website with a description about me, my hobbies and skills, 
 * html
 * css
 ### Link to Website
+[https://dorothymuhonja.github.io/my-portfolio/](My Portfolio)
+![alt text](./images/home.png)
+![alt text](./images/projects.png)
+![alt text](./images/about.png)
+
 ### License and Copyright
 
 Copyright (c) 2020 Dorothy Muhonja
