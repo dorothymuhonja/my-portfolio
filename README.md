@@ -12,7 +12,7 @@ This is a portfolio website with a description about me, my hobbies and skills, 
 
 ![home](images/home.png)
 ![projects](images/projects.png)
-![about](images/about.png)
+![about](images/About.png)
 ### License and Copyright
 
 Copyright (c) 2020 Dorothy Muhonja
