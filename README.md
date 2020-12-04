@@ -9,7 +9,7 @@ This is a portfolio website with a description about me, my hobbies and skills, 
 * css
 ### Link to Website
 [https://dorothymuhonja.github.io/my-portfolio/](Portfolio)
-
+### Screenshots
 [home](images/home.png)
 [projects](images/projects.png)
 [about](images/about.png)
