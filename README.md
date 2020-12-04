@@ -10,9 +10,9 @@ This is a portfolio website with a description about me, my hobbies and skills, 
 ### Link to Website
 [https://dorothymuhonja.github.io/my-portfolio/](Portfolio)
 
-![alt text](./images/home.png)
-![alt text](./images/projects.png)
-![alt text](./images/about.png)
+![home](/images/home.png)
+![projects](/images/projects.png)
+![about](/images/about.png)
 
 ### License and Copyright
 
