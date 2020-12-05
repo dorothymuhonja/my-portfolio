@@ -73,6 +73,7 @@ body{
 .projects p{
     word-spacing: 5px;
 }
+
 .left{
     float: left;
 }
@@ -83,7 +84,12 @@ body{
 figure{
     clear: both;
 }
-
+.projects span a{
+   color:rgb(53, 6, 53);
+}
+.projects span a:visited{
+   color: navy;
+}
 .about{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/background3.jpg") ; 
     background-repeat: no-repeat;
